@@ -23,7 +23,7 @@ body {
 		background-color: #fff;
 		background-color: var(--color-bg);
 		-webkit-overflow-scrolling:touch; 
-		overflow-y: scroll;
+		/* overflow-y: scroll; */
 		position: relative;
 }
 
