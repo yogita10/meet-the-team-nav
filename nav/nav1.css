@@ -42,6 +42,7 @@ html {
 body {
   margin: 0;
   overflow: visible;
+  -webkit-overflow-scrolling: touch; 
 }
 article,
 aside,
