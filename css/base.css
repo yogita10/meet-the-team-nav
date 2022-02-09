@@ -22,6 +22,9 @@ body {
 		color: var(--color-text);
 		background-color: #fff;
 		background-color: var(--color-bg);
+		-webkit-overflow-scrolling:touch; 
+		overflow-y: scroll;
+		position: relative;
 }
 
 /* Page Loader */
