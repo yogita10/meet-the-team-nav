@@ -25,6 +25,7 @@ body {
 		-webkit-overflow-scrolling:touch; 
 		/* overflow-y: scroll; */
 		position: relative;
+		overflow: visible;
 }
 
 /* Page Loader */
