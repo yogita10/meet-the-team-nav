@@ -107,7 +107,7 @@ main {
 	z-index: 100;
 	text-align: center;
 	font-size: 1rem;
-	overflow-y: visible;
+	/* overflow-y: scroll; */
 }
 
 .codrops-header__title {
