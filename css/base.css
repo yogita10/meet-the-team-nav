@@ -5,7 +5,9 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 	box-sizing: border-box;
 
 }
-
+html{
+	scroll-behavior: smooth;
+}
 body {
 	--color-text: #4800d4;
 	    --color-bg: #e8e8e8;
